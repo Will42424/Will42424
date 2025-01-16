@@ -1,5 +1,5 @@
-### William Burson
-# Other Titles
+# William Burson
+## Other Titles
 - The Dungeon Master
 - Brick
 - Liam
